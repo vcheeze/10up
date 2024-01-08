@@ -285,7 +285,6 @@ export default function Home() {
               className="attachment-full size-full wp-post-image"
               alt="Time logo"
               decoding="async"
-              srcset="https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2014/03/time.png 300w, https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2014/03/time-220x103.png 220w, https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2014/03/time-160x75.png 160w"
               sizes="(max-width: 300px) 100vw, 300px"
             />
             <Image
@@ -295,7 +294,6 @@ export default function Home() {
               className="attachment-full size-full wp-post-image"
               alt="ESPN logo"
               decoding="async"
-              srcset="https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2014/03/espn.png 300w, https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2014/03/espn-220x103.png 220w, https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2014/03/espn-160x75.png 160w"
               sizes="(max-width: 300px) 100vw, 300px"
             />
             <Image
@@ -305,7 +303,6 @@ export default function Home() {
               className="attachment-full size-full wp-post-image"
               alt="Google logo"
               decoding="async"
-              srcset="https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2015/09/google_logo.png 300w, https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2015/09/google_logo-220x103.png 220w, https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2015/09/google_logo-160x75.png 160w"
               sizes="(max-width: 300px) 100vw, 300px"
             />
             <Image
@@ -315,7 +312,6 @@ export default function Home() {
               className="attachment-full size-full wp-post-image"
               alt="BBCAmerica logo"
               decoding="async"
-              srcset="https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2016/03/BBC_America.png 300w, https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2016/03/BBC_America-220x103.png 220w, https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2016/03/BBC_America-160x75.png 160w"
               sizes="(max-width: 300px) 100vw, 300px"
             />
             <Image
@@ -325,7 +321,6 @@ export default function Home() {
               className="attachment-full size-full wp-post-image"
               alt="AARP logo"
               decoding="async"
-              srcset="https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2014/03/aarp.png 300w, https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2014/03/aarp-220x103.png 220w, https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2014/03/aarp-160x75.png 160w"
               sizes="(max-width: 300px) 100vw, 300px"
             />
             <Image
@@ -335,7 +330,6 @@ export default function Home() {
               className="attachment-full size-full wp-post-image"
               alt="World Economic Forum logo"
               decoding="async"
-              srcset="https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2014/03/wef.png 300w, https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2014/03/wef-220x103.png 220w, https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2014/03/wef-160x75.png 160w"
               sizes="(max-width: 300px) 100vw, 300px"
             />
             <Image
@@ -345,7 +339,6 @@ export default function Home() {
               className="attachment-full size-full wp-post-image"
               alt="TechCrunch logo"
               decoding="async"
-              srcset="https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2014/03/techcrunch-1.png 300w, https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2014/03/techcrunch-1-220x103.png 220w, https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2014/03/techcrunch-1-160x75.png 160w"
               sizes="(max-width: 300px) 100vw, 300px"
             />
             <Image
@@ -355,7 +348,6 @@ export default function Home() {
               className="attachment-full size-full wp-post-image"
               alt="TED logo"
               decoding="async"
-              srcset="https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2014/03/ted-1.png 300w, https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2014/03/ted-1-220x103.png 220w, https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2014/03/ted-1-160x75.png 160w"
               sizes="(max-width: 300px) 100vw, 300px"
             />
             <Image
@@ -365,7 +357,6 @@ export default function Home() {
               className="attachment-full size-full wp-post-image"
               alt="Microsoft logo"
               decoding="async"
-              srcset="https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2015/09/microsoft.png 300w, https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2015/09/microsoft-220x103.png 220w, https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2015/09/microsoft-160x75.png 160w"
               sizes="(max-width: 300px) 100vw, 300px"
             />
             <Image
@@ -375,7 +366,6 @@ export default function Home() {
               className="attachment-full size-full wp-post-image"
               alt="Adobe logo"
               decoding="async"
-              srcset="https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2016/09/logo-adobe.png 300w, https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2016/09/logo-adobe-220x103.png 220w, https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2016/09/logo-adobe-160x75.png 160w"
               sizes="(max-width: 300px) 100vw, 300px"
             />
             <Image
@@ -385,7 +375,6 @@ export default function Home() {
               className="attachment-full size-full wp-post-image"
               alt="Salesforce logo"
               decoding="async"
-              srcset="https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2014/03/salesforce.png 300w, https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2014/03/salesforce-220x103.png 220w, https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2014/03/salesforce-160x75.png 160w"
               sizes="(max-width: 300px) 100vw, 300px"
             />
             <Image
@@ -395,7 +384,6 @@ export default function Home() {
               className="attachment-full size-full wp-post-image"
               alt="Wired logo"
               decoding="async"
-              srcset="https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2014/03/wired.png 300w, https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2014/03/wired-220x103.png 220w, https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2014/03/wired-160x75.png 160w"
               sizes="(max-width: 300px) 100vw, 300px"
             />
             <Image
@@ -405,7 +393,6 @@ export default function Home() {
               className="attachment-full size-full wp-post-image"
               alt="IFC logo"
               decoding="async"
-              srcset="https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2016/03/IFC.png 300w, https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2016/03/IFC-220x103.png 220w, https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2016/03/IFC-160x75.png 160w"
               sizes="(max-width: 300px) 100vw, 300px"
             />
             <Image
@@ -415,7 +402,6 @@ export default function Home() {
               className="attachment-full size-full wp-post-image"
               alt="GlobalNews logo"
               decoding="async"
-              srcset="https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2014/03/global-news.png 300w, https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2014/03/global-news-220x103.png 220w, https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2014/03/global-news-160x75.png 160w"
               sizes="(max-width: 300px) 100vw, 300px"
             />
             <Image
@@ -425,7 +411,6 @@ export default function Home() {
               className="attachment-full size-full wp-post-image"
               alt="MotorTrend logo"
               decoding="async"
-              srcset="https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2016/09/logo-motortrend.png 300w, https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2016/09/logo-motortrend-220x103.png 220w, https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2016/09/logo-motortrend-160x75.png 160w"
               sizes="(max-width: 300px) 100vw, 300px"
             />
             <Image
@@ -435,7 +420,6 @@ export default function Home() {
               className="attachment-full size-full wp-post-image"
               alt="JDRF logo"
               decoding="async"
-              srcset="https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2014/03/jdrf.png 300w, https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2014/03/jdrf-220x103.png 220w, https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2014/03/jdrf-160x75.png 160w"
               sizes="(max-width: 300px) 100vw, 300px"
             />
             <Image
@@ -445,7 +429,6 @@ export default function Home() {
               className="attachment-full size-full wp-post-image"
               alt="Variety logo"
               decoding="async"
-              srcset="https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2014/03/variety.png 300w, https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2014/03/variety-220x103.png 220w, https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2014/03/variety-160x75.png 160w"
               sizes="(max-width: 300px) 100vw, 300px"
             />
             <Image
@@ -455,7 +438,6 @@ export default function Home() {
               className="attachment-full size-full wp-post-image"
               alt="Automattic logo"
               decoding="async"
-              srcset="https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2014/03/automattic.png 300w, https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2014/03/automattic-220x103.png 220w, https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2014/03/automattic-160x75.png 160w"
               sizes="(max-width: 300px) 100vw, 300px"
             />
             <Image
@@ -465,7 +447,6 @@ export default function Home() {
               className="attachment-full size-full wp-post-image"
               alt="AMC logo"
               decoding="async"
-              srcset="https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2016/03/AMC.png 300w, https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2016/03/AMC-220x103.png 220w, https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2016/03/AMC-160x75.png 160w"
               sizes="(max-width: 300px) 100vw, 300px"
             />
             <Image
@@ -475,7 +456,6 @@ export default function Home() {
               className="attachment-full size-full wp-post-image"
               alt="Intuit logo"
               decoding="async"
-              srcset="https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2014/03/intuit.png 300w, https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2014/03/intuit-220x103.png 220w, https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2014/03/intuit-160x75.png 160w"
               sizes="(max-width: 300px) 100vw, 300px"
             />
             <Image
@@ -485,7 +465,6 @@ export default function Home() {
               className="attachment-full size-full wp-post-image"
               alt="jQuery logo"
               decoding="async"
-              srcset="https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2014/03/jquery.png 300w, https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2014/03/jquery-220x103.png 220w, https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2014/03/jquery-160x75.png 160w"
               sizes="(max-width: 300px) 100vw, 300px"
             />
             <Image
@@ -495,7 +474,6 @@ export default function Home() {
               className="attachment-full size-full wp-post-image"
               alt="Thomson Reuters logo"
               decoding="async"
-              srcset="https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2014/03/thomson-reuters.png 300w, https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2014/03/thomson-reuters-220x103.png 220w, https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2014/03/thomson-reuters-160x75.png 160w"
               sizes="(max-width: 300px) 100vw, 300px"
             />
             <Image
@@ -505,7 +483,6 @@ export default function Home() {
               className="attachment-full size-full wp-post-image"
               alt="Peta logo"
               decoding="async"
-              srcset="https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2014/03/peta.png 300w, https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2014/03/peta-220x103.png 220w, https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2014/03/peta-160x75.png 160w"
               sizes="(max-width: 300px) 100vw, 300px"
             />
             <Image
@@ -515,7 +492,6 @@ export default function Home() {
               className="attachment-full size-full wp-post-image"
               alt="Theknot logo"
               decoding="async"
-              srcset="https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2014/03/the-knot.png 300w, https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2014/03/the-knot-220x103.png 220w, https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2014/03/the-knot-160x75.png 160w"
               sizes="(max-width: 300px) 100vw, 300px"
             />
             <Image
@@ -525,7 +501,6 @@ export default function Home() {
               className="attachment-full size-full wp-post-image"
               alt="NBCUniversal logo"
               decoding="async"
-              srcset="https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2014/03/nbc-universal.png 300w, https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2014/03/nbc-universal-220x103.png 220w, https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2014/03/nbc-universal-160x75.png 160w"
               sizes="(max-width: 300px) 100vw, 300px"
             />
             <Image
@@ -535,7 +510,6 @@ export default function Home() {
               className="attachment-full size-full wp-post-image"
               alt="ATT logo"
               decoding="async"
-              srcset="https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2014/05/att1.png 300w, https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2014/05/att1-220x103.png 220w, https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2014/05/att1-160x75.png 160w"
               sizes="(max-width: 300px) 100vw, 300px"
             />
             <Image
@@ -545,7 +519,6 @@ export default function Home() {
               className="attachment-full size-full wp-post-image"
               alt="Trulia logo"
               decoding="async"
-              srcset="https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2014/03/trulia.png 300w, https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2014/03/trulia-220x103.png 220w, https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2014/03/trulia-160x75.png 160w"
               sizes="(max-width: 300px) 100vw, 300px"
             />
             <Image
@@ -555,7 +528,6 @@ export default function Home() {
               className="attachment-full size-full wp-post-image"
               alt="Western Digital logo"
               decoding="async"
-              srcset="https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2014/03/western-digital.png 300w, https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2014/03/western-digital-220x103.png 220w, https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2014/03/western-digital-160x75.png 160w"
               sizes="(max-width: 300px) 100vw, 300px"
             />
             <Image
@@ -565,7 +537,6 @@ export default function Home() {
               className="attachment-full size-full wp-post-image"
               alt="9to5 logo"
               decoding="async"
-              srcset="https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2014/03/9to5.png 300w, https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2014/03/9to5-220x103.png 220w, https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2014/03/9to5-160x75.png 160w"
               sizes="(max-width: 300px) 100vw, 300px"
             />
             <Image
@@ -575,7 +546,6 @@ export default function Home() {
               className="attachment-full size-full wp-post-image"
               alt="RED logo"
               decoding="async"
-              srcset="https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2016/06/red-LOGO.jpg 300w, https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2016/06/red-LOGO-220x103.jpg 220w, https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2016/06/red-LOGO-160x75.jpg 160w"
               sizes="(max-width: 300px) 100vw, 300px"
             />
             <Image
@@ -585,7 +555,6 @@ export default function Home() {
               className="attachment-full size-full wp-post-image"
               alt="Cleveland Clinic logo"
               decoding="async"
-              srcset="https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2016/03/Cleveland_clinic_thumb.png 300w, https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2016/03/Cleveland_clinic_thumb-220x103.png 220w, https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2016/03/Cleveland_clinic_thumb-160x75.png 160w"
               sizes="(max-width: 300px) 100vw, 300px"
             />
             <Image
@@ -595,7 +564,6 @@ export default function Home() {
               className="attachment-full size-full wp-post-image"
               alt="reddit logo"
               decoding="async"
-              srcset="https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2016/03/reddit.png 300w, https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2016/03/reddit-220x103.png 220w, https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill/prod/uploads/2016/03/reddit-160x75.png 160w"
               sizes="(max-width: 300px) 100vw, 300px"
             />
           </div>

@@ -1358,7 +1358,7 @@ export default function Home() {
             </div>
           </div>
           <p>
-            We're wherever you are, with 10uppers in most major cities—and
+            We&apos;re wherever you are, with 10uppers in most major cities—and
             everywhere in between.
           </p>
         </div>
@@ -1440,7 +1440,7 @@ export default function Home() {
           src="https://res.cloudinary.com/tenup/image/upload/f_auto,c_fill,w_1116,h_366/prod/wp-content/themes/10up-sept2016/assets/img/tagline-bg.jpg"
         />
         <div className="grid-inner">
-          <h2 className="cta-contact-title">Let's build something great</h2>
+          <h2 className="cta-contact-title">Let&apos;s build something great</h2>
           <div className="cta-contact-actions">
             <ul>
               <li>
